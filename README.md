@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Research Center Quality Classification — Machine Learning Assignment
 
 ## Overview
@@ -275,3 +276,7 @@ Focus on **clarity, interpretability, and reasoning**, not complexity.
 Your best submissions will show strong understanding and concise, well-documented work.
 
 ---
+=======
+# ml-research-center-test
+Machine learning clustering test with FastAPI endpoint for research center quality classification
+>>>>>>> c7315bdcd6d2461156e6af2686318d626b5e70ae
